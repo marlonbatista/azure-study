@@ -3,57 +3,57 @@ This is a documentacion for the Azure course.
 
 -> **PT-BR**
 
-Estudo Azure  - Z - 900
+**Estudo Azure  - Z - 900**
 
-Tipo de modelos de nuvem
-	- público
-		-> Fornece recursos e serviços a várias organizações e usuários.
-		-> Acessada via conexão e serviços a várias organizações e usuários.
-			Ex: a propria núvem da microsoft
-		-> Recursos físicos compartilhados
-	- privado
-		-> Ambiente 100% on primise - Um ambiente somente daquela empresa -
-			-> As empresas são responsaveis por operar os serviços que fornecem
-			-> Nínguém (usuários) fora da organização tem acesso
-	- hibrido
-		-> Combina nuvens privadas e públicas para aproveitar os benefícios de ambas.
-		-> As cargas de trabalho podem ser movidas entre nuvens públicas e privadas conforme necessário.
-			Exemplo: Uma empresa pode manter dados sensíveis em uma nuvem privada on-premises, enquanto usa a nuvem pública para escalar aplicações web durante picos de demanda.
+### Tipo de modelos de nuvem
+- **Público** 
+	- Fornece recursos e serviços a várias organizações e usuários.
+	- Acessada via conexão e serviços a várias organizações e usuários.
+	    -Ex: a propria núvem da microsoft
+	- Recursos físicos compartilhados
+- **Privado**
+	- Ambiente 100% on primise - Um ambiente somente daquela empresa -
+		- As empresas são responsaveis por operar os serviços que fornecem
+		- Ninguém (usuários) fora da organização tem acesso.
+- **Hibrido**
+	- Combina nuvens privadas e públicas para aproveitar os benefícios de ambas.
+	- As cargas de trabalho podem ser movidas entre nuvens públicas e privadas conforme necessário.
+	    -Exemplo: Uma empresa pode manter dados sensíveis em uma nuvem privada on-premises, enquanto usa a nuvem pública para escalar aplicações web durante picos de demanda.
 			
-Detalhe de cada tipo de nuvem
-	-> pública
-		-> Nenhuma despesa de capital para escalar verticalmente. (capax e opex)
-		-> Os aplicativos podem ser provisionados e desprovisionados rapidamente.
-		-> As organizações pagam apenas pelo que utilizam.
+### Detalhe de cada tipo de nuvem
+- **Pública**
+	- Nenhuma despesa de capital para escalar verticalmente. (capax e opex)
+	- Os aplicativos podem ser provisionados e desprovisionados rapidamente.
+	- As organizações pagam apenas pelo que utilizam.
 		
-	-> privada 
-		-> As organizações tem controle total sobre os recursos e a segurança.
-		-> As organizações são responsáveis pela manutenção e pelas atualizações de hardaware.
-		-> tudo é sua responsabilidade
+- **Privada** 
+	- As organizações tem controle total sobre os recursos e a segurança.
+	- As organizações são responsáveis pela manutenção e pelas atualizações de hardaware.
+	- Tudo é sua responsabilidade.
 		
-	-> hibrido
-		-> As organizações determinam onde executar seus aplicativos.
-		-> As organizações controlam a segurança, a conformidade e os requisitos legais.
-		-> Fornece a maior flexibilidade.
-		-> Você devem determinar as questões de segurança.
+- **Hibrido**
+	- As organizações determinam onde executar seus aplicativos.
+	- As organizações controlam a segurança, a conformidade e os requisitos legais.
+	- Fornece a maior flexibilidade.
+	- Você devem determinar as questões de segurança.
 		
-Tipos de custos
-	-> Copex e Opex
-		-> Despesas de capital (CapEx)
-			-> O gasto incial de dinheiro em infraestrutura física.
-			-> As despesas do CapEx têm um valor que se reduz com o tempo.
+### Tipos de custos
+- **Copex e Opex**
+	- Despesas de capital (CapEx)
+	    - O gasto incial de dinheiro em infraestrutura física.
+		- As despesas do CapEx têm um valor que se reduz com o tempo.
 	
-		-> Opex 
-			-> Gastar com produtos e serviços conforme necessário, pagamento conforme o uso.
-			-> seja cobrado imediatamente.
-			-> Cobrado sobre toda utilização e quanto tempo utilizar.
+	- **Opex**
+		- Gastar com produtos e serviços conforme necessário, pagamento conforme o uso.
+		- seja cobrado imediatamente.
+		- Cobrado sobre toda utilização e quanto tempo utilizar.
 			
-	-> Modelo baseado em consumo
-		-> Os provesdores de serviços em nuvem operam em um modelo baseado no consumo, o que significa que os usuários finais
+	- **Modelo baseado em consumo**
+		- Os provesdores de serviços em nuvem operam em um modelo baseado no consumo, o que significa que os usuários finais
 		pagam somente pelos recursos que usam.
-		-> Melhor previsão de custos.
-		-> São forncediso preços para recursos e serviços individuais.
-		-> A cobrança é feita com base no seu uso real.
+		- Melhor previsão de custos.
+		- São forncediso preços para recursos e serviços individuais.
+		- A cobrança é feita com base no seu uso real.
 		
 	
 	
