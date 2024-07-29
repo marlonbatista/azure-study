@@ -1,7 +1,7 @@
 # azure-study
 This is a documentacion for the Azure course.
 
--> ##PT-BR##
+-> **PT-BR**
 
 Estudo Azure  - Z - 900
 
@@ -57,7 +57,7 @@ Tipos de custos
 		
 	
 	
--> ##EN
+-> **EN**
 
 Sure! Here is the translation into English:
 
