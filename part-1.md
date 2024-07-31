@@ -119,4 +119,4 @@ Sure! Here is the translation into English:
   - Prices are provided for individual resources and services.
   - Billing is based on actual usage.
 
----
+--------------------------------------------------------------------------------------
