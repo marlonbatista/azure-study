@@ -1,6 +1,3 @@
-# azure-study
-This is a documentacion for the Azure course.
-
 -> **PT-BR**
 
 **Estudo Azure  - Z - 900**

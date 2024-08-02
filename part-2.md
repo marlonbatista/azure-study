@@ -65,6 +65,34 @@ Part 2
         
         
 
-        
-        
+-----------------------------------------------
+
+-> **En**
+
+- **Benficts of cloud**
+    ### Topics
+
+    - Availability
+    - Scability (Growth over demand)
+    - Previsiblely
+    - Reliability
+    - Governance
+
+    **High level of Availability**
+        - Availibe resources always necessary.
+        - SLA - Probabilidade time of resource indisponibility on contract.
+            - When a service exceeds the indisponibility time on contract the client's account receive credits to use.
+            - The service price depends on availability percent the bigger availability percent (SLA) is the bigger will be your cost.
+            Example:
+                Time         | Cost (Money)
+                ----------------------------
+                |SLA 99%     | $           |
+                |SLA 99.9%   | $$          |
+                |SLA 99.95%  | $$$         |
+                ----------------------------
+        - The high availability is focused to assert max availiable time indepent of interruptions or events naturals.
+    
+    **Scability**
+        - The scability refer to capacitiy on adjust resource's settings over demand.
+        - The ability to scale means you have ability to add more resource as demand increase.
 
