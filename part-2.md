@@ -23,7 +23,8 @@ Part 2
             EX: |SLA 99%     | $           |
                 |SLA 99.9%   | $$          |
                 |SLA 99.95%  | $$$         |
-                
+                |:------------------------:|
+
         - A Alta disponibiliade se concentra em garantir a disponibilidade máxima, independente de interrupções ou eventos que possam ocorrer.
 
     **Escabiliade**
@@ -85,12 +86,15 @@ Part 2
             - When a service exceeds the indisponibility time on contract the client's account receive credits to use.
             - The service price depends on availability percent the bigger availability percent (SLA) is the bigger will be your cost.
             Example:
-                Time         | Cost (Money)
-                ----------------------------
+
+                |Time        | Cost (Money)|
+                |:------------------------:|
                 |SLA 99%     | $           |
                 |SLA 99.9%   | $$          |
                 |SLA 99.95%  | $$$         |
-                ----------------------------
+                |:------------------------:|
+
+
         - The high availability is focused to assert max availiable time indepent of interruptions or events naturals.
     
     **Scability**
