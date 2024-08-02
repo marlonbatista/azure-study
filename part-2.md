@@ -17,9 +17,9 @@ Part 2
             - Quando um serviço utrapassa o limite de indisponibilidade previstao em contrato, a conta (cliente) recebe crédito como forma de ressarcimento.
         - Importante entender qual a disponibilidade prevista em contrato para cada componente.
         - Quanto maior a procetagem de disponibilidade, maior será o custo desse serviço.
-        
+
                 |Tempo       | Custo       |
-                |:-----------|----------:  |
+                |:-----------|------------:|
             EX: |SLA 99%     | $           |
                 |SLA 99.9%   | $$          |
                 |SLA 99.95%  | $$$         |
