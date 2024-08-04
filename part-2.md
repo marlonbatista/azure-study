@@ -100,7 +100,7 @@ Part 2
     - The scability refer to capacitiy on adjust resource's settings over demand.
     - The ability to scale means you have ability to add more resource as demand increase.
 
--**Elasticity**
+- **Elasticity**
     - One example when occours Black Friday in the Market.
     - With elasticity, it is possible to expand horizontally the capacity resources manually or automatically.
     - It is possible to create a rule when it is necessary to expandad.
