@@ -48,14 +48,15 @@ Part 2
         - Sistema se recupera de falhas e se recupera de forma rápida.
 
     **Previsibiliade**
-        - Permiti que os clientes avancem na utilização ou desenvolvimento das aplicações na nuvem com confiança
+        - Permite que os clientes avancem na utilização ou desenvolvimento das aplicações na nuvem com confiança
 
     **Segurança**
         - A nuvem oferece ferramentas de segurança que atendem às necessidades dos clientes mas é importante lembrar que a implementação de muitas delas devem ser configuradas (clientes) pelo cliente.
 
     **Governança**
         - Auditoria dos processos realizados.
-        - A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos e fornece estratégias de mitigação.
+        - A auditoria baseada em nuvem ajuda a sinalizar qualquer recurso que esteja fora de conformidade com seus padrões corporativos.
+        - fornece estratégias de mitigação.
         - Garantia que a empresa está protegida e gerenciada.
         - Pode-se criar e estabelecer suas proprias regras conforme a necessidade.
 
@@ -63,7 +64,7 @@ Part 2
         - Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento.
         - Há dois tipos de capacidade de gerenciamentO.
         *o* gerenciamento de nuvem diz respeito a gerenciar seus recursos de nuvem. Por exemplo:
-            - Escalar automaticamente a implantação de recursos com base na necessidade.
+            - Escala automaticamente a implantação de recursos com base na necessidade.
         
         
 
@@ -101,3 +102,32 @@ Part 2
         - The scability refer to capacitiy on adjust resource's settings over demand.
         - The ability to scale means you have ability to add more resource as demand increase.
 
+    **Elasticity**
+        - One example when occours Black Friday in the Market.
+        - With elasticity, it is possible to expand horizontally the capacity resources manually or automatically.
+        - It is possible to create a rule when it is necessary to expandad.
+
+    **Confidenciality**
+        - It is associeted with resilience
+        - Though some cloud's native resources were centralized, it is possible to create resources anywhere in the world.
+        - Due the descentralized design, the cloud naturally  supports a reliable  and resilient infrastructure.
+        - This design type of the cloud allows the implementation of resources in many regions of the world.
+        - System can recover itself quickly from failures.
+
+    **Previsibility**
+        - Allows clients to advance in developing or using cloud applications with confidence.
+    
+    **Governance**
+        - The audit of process release.
+        - The audit based on cloud help to signal any recurse that is not regular with industry patterns
+        - Provides  mitigation strategies.
+        - Enssure the company that is protect and managemented.
+        - Can create and establish your own rules.
+
+    **Managebility**
+        - One of the main beneficts of the cloud is it capacity management options.
+        - There two types of management capacity.
+        * The cloud management talk about management resources.
+            - Automaticaly scale the implementation of resources as needed.
+            
+---------------------------------------------------------
