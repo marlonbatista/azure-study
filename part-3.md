@@ -32,6 +32,6 @@ Part 3
 
 ### Modelo de responsabilidade compartilhada
 
-    <img src="assets/shared-responsibility.svg" alt="Division of responsability">
+<img src="assets/shared-responsibility.svg" alt="Division of responsability">
 
 
