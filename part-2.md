@@ -85,7 +85,7 @@ Part 2
     - SLA - Probabilidade time of resource indisponibility on contract.
     - When a service exceeds the indisponibility time on contract the client's account receive credits to use.
     - The service price depends on availability percent the bigger availability percent (SLA) is the bigger will be your cost.
-        Example:
+        
             |Time        | Cost (Money)|
             |:------------------------:|
             |SLA 99%     | $           |
