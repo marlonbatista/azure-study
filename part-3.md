@@ -34,4 +34,51 @@ Part 3
 
 <img src="assets/shared-responsibility.svg" alt="Division of responsability">
 
+ ***Fonte: Microsoft***
 
+- **Categorias que são responsabilidade do servidor (Microsoft)**
+    - Hosts Físicos
+    - Rede física
+    - Datacenter Físico
+    - O cliente não tem ação nesse cenário
+
+- **Responsabilidades que podem ser dividas com o servidor**
+    ***A responsabilidade varia conforme o tipo***
+        - Infraestrutura de identidade e diretório
+        - Aplicativos
+        - Controles de rede
+        - Sistema operacional (exceto para Iaas)
+
+    ***Iaas***
+        - Toda a responsabilidade permanece por parte do clinte
+    
+    ***Paas***
+        - A responsabilidade é dividade entre o cliente e a Microsoft
+    
+    ***Saas***
+        - A infraestrutura de identidade e diretório é único ponto onde ocorre a divisão de responsabilidade entre cliente e Microsoft (Cloud provider).
+
+
+- **Responsabilidade é sempre retida pelo cliente**
+    - Informações e dados
+    - Dispositivos (módeis e PCs)
+    - Contas e identidade e diretório
+    - A responsabilidade para manutenção e monitoramente é total do cliente.
+
+
+- **Comparação dos tipos de serviço na nuvem**
+
+    ***Iaas***
+        - Serviço de nuvem mais flexível
+        - O cliente configura e administra o hardware utilizado pelo recurso.
+
+    ***Paas***
+        - Focado no desenvolvimento de aplicativos
+        - Manutenção e gerencia do aplicativo/plataforma é feito pela Microsoft.
+
+    ***Saas***
+        - Modelo de preço de pagamento conforme o uso.
+        - Menor controle e acesso.
+        - Usuários pagam pelo software que utilizam através do modelo de assinatura.
+
+-----------------------------------------------------------------------------------------------
