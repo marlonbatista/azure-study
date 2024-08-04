@@ -32,6 +32,6 @@ Part 3
 
 ### Modelo de responsabilidade compartilhada
 
-    ![Modelo de responsabilidade compartilhada]('./img/shared-responsability.svg')
+    [Modelo de responsabilidade compartilhada]('./img/shared-responsability.svg')
 
 
