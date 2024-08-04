@@ -56,8 +56,6 @@
 	
 -> **EN**
 
-Sure! Here is the translation into English:
-
 ---
 
 **Study Azure - Z - 900**
