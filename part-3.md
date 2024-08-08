@@ -159,4 +159,4 @@ Part 3
         - User can only use what the pay for, following the license model.
 
 
-
+-----------------------------------------------------------------------------------------------
